@@ -3,9 +3,9 @@ var __path = process.cwd(),
      { color } = require(__path + '/lib/color.js')
 
 // Connection URL
-var url = 'api-wok.herokuapp.com';
+var url = 'apisanzy.herokuapp.com';
 try {
-if(url == 'api-wok.herokuapp.com') throw console.log(color('Configurasi database, var url belum diisi','red'));
+if(url == 'apisanzy.herokuapp.com') throw console.log(color('Configurasi database, var url belum diisi','red'));
 } catch (e) {
 	return;
 	}
