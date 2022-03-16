@@ -3,11 +3,5 @@
   "description": "First open BOT by Alien-Alfa ",
   "repository": "https://github.com/Alien-Alfa/Alien-Alfa",
   "logo": "https://avatars.githubusercontent.com/u/64305844?v=4",
-  "keywords": ["nodejs", "bot", "whatsapp bot", "whatsapp automation"],
-   "formation": {
-        "worker": {
-            "quantity": 1,
-            "size": "free"
-        }
-    }
+  "keywords": ["nodejs", "bot", "whatsapp bot", "whatsapp automation"]
 }
